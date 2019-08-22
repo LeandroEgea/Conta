@@ -1,0 +1,48 @@
+PATRIMONIO: - Las personas son titulares de los derechos individuales sobre los bienes que integran su patrimonio. ART. 15 del codigo civil y comercial.
+            - Para la contabilidad, el patrimonio es todo lo que tenés, y los derechos como los cheques(Activo) menos todo lo que adeudas (Pasivo).
+			- Para la contabilidad, es el total de los bienes, derechos adquiridos y obligaciones que posee una persona física o jurídica.
+			- Prenda comun de los acreedores(Proveedores) -> Cuando un deudor no cumple con sus obligaciones de pago, 
+			todo su patrimonio en bloque queda afectado para cumplir con el pago de sus deudas.
+			
+FUENTES: Es como puede obtener el Patrimonio
+			- Ingresos: (Sueldos en relacion de dependencia, comiciones, honorarios, subsidios y pensiones)
+				- Pensiones /* ? */ : Es del conyuge fallecido.
+				- Pensiones graciables: Es lo que otorga el Estado como un subsidio.
+				- Ingresos societarios: Son los beneficios procedentes de empresas, comercios, industrias...
+			- Renta de valores: Titulos, bonos, acciones...
+			- Renta de propiedades: Alquiler de departamento, alquiler de campo...
+			- Derechos intelectuales: Marcas, Patentes, propiedad intelectual, invencion literaria y musical...
+			- Herencia, legado, donaciones.
+			
+COMERCIANTE: Es toda persona que teniendo capacidad legal para contratar ejerce actos de comercio haciendo de ello su profesion habitual.
+			- CAPACIDAD: Todos menos:
+								- Personas x nacer
+								- Dementes declarados judicialmene.
+								- Sordomudos que no se dan a entender por escrito.
+								- Ausentes (judicialmente).
+								- Menores de 18 que no hayan sido autorizados por sus padres o tutores y no se hayan emancipado.
+								- Magistrados civiles.
+								- Jueces en si jurisdicción.
+								- Interdictos(Presos)
+								- Fallidos(Muertos)
+								
+			- ACTO DE COMERCIO: Realizar una actividad relacionada con el comercio, es decir, toda adquisicion a titulo oneroso de cosa mueble 
+								/* ? */ lucrar con su enajenacion ya sea en el estados que se adquirio o despues de darle otra forma distinta a la anterior.
+								
+			- HABITUALIDAD: Tenes que tener habitualidad en lo que vendas.
+			
+SOCIEDADES COMERCIALES: - Las empresas son personas juridicas capaces de adquirir derechos y contraer obligaciones.
+						- Habra sociedad comercial cuando 2 o mas personas conforme algunos de los tipos previstos por la Ley /* ? */ e intercambio de bienes o servicios
+						participando de los beneficios y soportando las perdidas.
+						- Las empresas se pueden organizar bajo alguna de las modalidades establecidas por la LEY 19550 del codigo de comercio como la ley de sociedades comerciales
+						
+		
+		SOCIEDADES COLECTIVAS:
+							-RESPONSABILIDAD: Los socios contraen responsabilidad subsidiaria limitada y solidaria por las obligaciones sociales (resppnden en forma indistinta incluso con
+												sus propios bienes, cualquier /* ? */ no es punible a terceros.
+							-DENOMINACION: Puede figurar el nombre de uno, algunos o todos los socios o el agregado de y compañia pero siempre Sociedad Colectiva(SC)
+							-ADMINISTRACION: Si el contrato social no lo estipula la sociedad sera administrada por cualquiera de los socios inditintamente, caso contrario,
+												puede ser algun socio o un 3ro. El admin puede ser removido por elección mayoritaria sin indicación de causa. En caso de
+												renuncia debe responder por los perjuicios causados si fuese dolosa o /* intempestiva? */
+							-CAPITAL: Los aportes de los socios pueden realizarse en efectivo o en bienes de distintas especies no existiendo división del capital.
+						
